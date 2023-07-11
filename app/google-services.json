@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "007110006704",
+    "firebase_url": "https://fresy-app.firebaseio.com",
+    "project_id": "fresy-app",
+    "storage_bucket": "fresy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:007110006704:android:d64b74869296a5d6a229b5",
+        "android_client_info": {
+          "package_name": "com.app.fresy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "007110006704-vb8ol9oi39i348aqc5f8g54n9gv8ami1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqrkoXXXXX61cU8XbOun2qXxxxxxxZvnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "007110006704-vb8ol9oi39i348aqc5f8g54n9gv8ami1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
